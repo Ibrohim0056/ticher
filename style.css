@@ -1,0 +1,74 @@
+.ibrohimjon{
+    background-color: maroon;
+    height: 1000px;
+ flex-wrap: wrap;
+ 
+}
+.box{
+font-size: 64px;
+text-align: center;
+color: yellow;
+margin-left: 220px;
+margin-top: 100px;
+
+    
+}
+.span-box{
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 77.45px;
+    text-align: center;
+color: white;    
+}
+.box-1{
+font-size: 40px;
+color: black;
+}
+a{
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18.15px;
+    text-align: center;
+    color: blue;
+
+}
+.uno{
+    margin-top:30px ;
+    display: flex;
+    gap: 180px;
+}
+img{
+    width: 300px;
+height: 140px;
+top: 173px;
+left: 166px;
+gap: 0px;
+opacity: 0px;
+
+}
+.nomi{
+ display: flex;
+ justify-content: space-around;
+
+
+
+
+}
+.nomi1{
+    background-color: black;
+ height: 325px;
+ color: white;
+}
+h4{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+}
+.nomi5{
+    display: flex;
+    justify-content: space-around;
+}
